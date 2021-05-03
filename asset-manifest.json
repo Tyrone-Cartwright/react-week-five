@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-week-five/static/css/main.33c0f4d6.chunk.css",
+    "main.js": "/react-week-five/static/js/main.bd7c8bf1.chunk.js",
+    "main.js.map": "/react-week-five/static/js/main.bd7c8bf1.chunk.js.map",
+    "runtime-main.js": "/react-week-five/static/js/runtime-main.f6d0e973.js",
+    "runtime-main.js.map": "/react-week-five/static/js/runtime-main.f6d0e973.js.map",
+    "static/js/2.4c260a37.chunk.js": "/react-week-five/static/js/2.4c260a37.chunk.js",
+    "static/js/2.4c260a37.chunk.js.map": "/react-week-five/static/js/2.4c260a37.chunk.js.map",
+    "static/js/3.ab520a7f.chunk.js": "/react-week-five/static/js/3.ab520a7f.chunk.js",
+    "static/js/3.ab520a7f.chunk.js.map": "/react-week-five/static/js/3.ab520a7f.chunk.js.map",
+    "index.html": "/react-week-five/index.html",
+    "static/css/main.33c0f4d6.chunk.css.map": "/react-week-five/static/css/main.33c0f4d6.chunk.css.map",
+    "static/js/2.4c260a37.chunk.js.LICENSE.txt": "/react-week-five/static/js/2.4c260a37.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-week-five/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d0e973.js",
+    "static/js/2.4c260a37.chunk.js",
+    "static/css/main.33c0f4d6.chunk.css",
+    "static/js/main.bd7c8bf1.chunk.js"
+  ]
+}
